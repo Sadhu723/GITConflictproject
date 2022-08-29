@@ -26,6 +26,13 @@ public class Sample {
 			System.out.println("line 2 added by A branch");
 			System.out.println("line 3 added by A branch");
 			System.out.println("line 4 added by A branch");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
 		}
 		
 		
