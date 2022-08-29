@@ -33,6 +33,13 @@ public class Sample {
 			System.out.println("B edited line 6");
 			System.out.println("B edited line 7");
 			System.out.println("B edited line 8");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
+			System.out.println("some new lines added by A");
  
 		}
 		
