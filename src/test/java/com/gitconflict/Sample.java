@@ -21,6 +21,10 @@ public class Sample {
 			System.out.println("GITConflict");
 			System.out.println("GITConflict");
 			
+			System.out.println("line 1 added by A branch");
+			System.out.println("line 2 added by A branch");
+			System.out.println("line 3 added by A branch");
+			System.out.println("line 4 added by A branch");
 			System.out.println("B edited line 1");
 			System.out.println("B edited line 2");
 			System.out.println("B edited line 3");
@@ -29,6 +33,7 @@ public class Sample {
 			System.out.println("B edited line 6");
 			System.out.println("B edited line 7");
 			System.out.println("B edited line 8");
+ 
 		}
 		
 		
